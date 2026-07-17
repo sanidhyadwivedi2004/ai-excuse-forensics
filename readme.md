@@ -15,14 +15,6 @@ An explainable NLP-powered forensic analyzer that examines linguistic risk signa
 
 ---
 
-## 🎥 Demo
-
-> Add your demo GIF or LinkedIn video here.
-
-![Demo](demo.gif)
-
----
-
 # 🚀 Features
 
 - 🔍 Linguistic forensic analysis
